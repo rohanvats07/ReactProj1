@@ -1,0 +1,17 @@
+{
+  "name": "proj1",
+  "version": "1.0.0",
+  "description": "A responsive web application for managing user data with full CRUD operations, built using vanilla HTML, CSS, and JavaScript with extensive ES6 features.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "live-server --port=3000 --open=/",
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.2"
+  }
+}
